@@ -1,6 +1,6 @@
 import * as React from 'react'
 import * as ReactDOM from 'react-dom'
-import Slider from '../src/Slider'
+import { Slider } from '../src/Slider'
 describe('it', () => {
   it('renders without crashing', () => {
     const div = document.createElement('div')
